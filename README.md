@@ -1,5 +1,5 @@
-# Health-Insurance-Data-Analysis
-Exploring Factors Affecting Insurance Cost &amp; Predict the Cost for a Health Insurance Company by Python
+# Health-Insurance-Data-Analysis by Python
+Exploring Factors Affecting Insurance Cost &amp; Predict the Cost for a Health Insurance Company
 
 
 
