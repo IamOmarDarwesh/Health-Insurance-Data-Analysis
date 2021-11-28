@@ -7,7 +7,9 @@ Exploring Factors Affecting Insurance Cost &amp; Predict the Cost for a Health I
 
 
 
-Overview:
+**Overview:**
+
+
 
 
 The cost of medical expenses is one of the major recurring expenses in a human life. It is known that one's life style dictates diseases or ailments one can have and these diseases or ailments dictate medical expenses. 
@@ -23,7 +25,7 @@ Medical expenses are difficult to estimate because the most costly conditions ar
 
 
 
-Objective:
+**Objective:**
 
 
 
@@ -35,7 +37,7 @@ Here, our objective is to find a correlation between personal medical expenses a
 
 
 
-Data Columns(attributes):
+**Data Columns(attributes):**
 
 
 
